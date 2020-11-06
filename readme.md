@@ -1,6 +1,6 @@
-# Notes for R. Shankar's *Principles of Quantum Mechanics*
+# Noter til R. Shankar's *Principles of Quantum Mechanics*
 
-Currently referencing
+Referencer
 
 - Kunze & Hoffman, Linear Algebra (2nd Edition)
 - J. Lee, Introduction to Smooth Manifolds
